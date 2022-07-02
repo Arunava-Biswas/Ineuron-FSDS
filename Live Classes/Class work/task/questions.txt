@@ -1,0 +1,24 @@
+s = "this is My First Python programming class and i am learNING python string and its function"
+Try to extract data from index one to index 300 with a jump of 3
+Try to reverse a string without using reverse function
+Try to split a string after conversion of entire string in uppercase
+Try to convert the whole string into lower case
+Try to Capitalize the whole string.
+
+l = [[1,2,3,4] , (2,3,4,5,6) , (3,4,5,6,7) , set([23,4,5,45,4,4,5,45,45,4,5]) ,
+     {'k1' : "sudh", 'k2' : "ineuron", 'k3' : "kumar", 3:6, 7:8} , ['ineuron', 'data science']]
+# Q3: Try to extract all the list entity
+# Q4: Try to extract all the dictionary entity
+# Q5: Try to extract all the tuples entity
+# Q6: Try to extract all the numeric data which may be part of dict key and values
+# Q7: Try to give summation of all the numeric data.
+# Q8: Try to filter out all the odd values out of all numeric data which is a part of a list
+# Q9: Try to extract "ineuron" out of the data
+# Q10: Try to find out a number of occurences of all the data
+# Q11: Try to find out number of keys in dict element
+# Q12: Try to filter out all the string data
+# Q13: Try to find out alphanum in data
+# Q14: Try to find out multiplication of all numeric values in the individual collection inside dataset
+# Q15: Try to unwrap all the collection inside collection and create a flat list
+
+
