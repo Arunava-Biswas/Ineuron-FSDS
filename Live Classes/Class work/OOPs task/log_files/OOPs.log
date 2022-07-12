@@ -1,0 +1,62 @@
+12/07/2022 11:36:11 AM : INFO : __main__ : The fullname of the student is: Arunava Biswas
+12/07/2022 11:36:11 AM : INFO : __main__ : The student belongs to FSDS-May batch
+12/07/2022 11:36:11 AM : INFO : __main__ : Number of students increased to: 1
+12/07/2022 11:36:11 AM : INFO : __main__ : The fullname of the student is: New User
+12/07/2022 11:36:11 AM : INFO : __main__ : The student belongs to FSDS-May batch
+12/07/2022 11:36:11 AM : INFO : __main__ : Number of students increased to: 2
+12/07/2022 11:36:19 AM : INFO : __main__ : arunava_biswas@ineuron.com
+12/07/2022 11:36:19 AM : INFO : __main__ : arunava biswas is also applicable for internship.
+12/07/2022 11:36:19 AM : INFO : __main__ : The student has opted for FSDS.
+12/07/2022 11:36:19 AM : INFO : __main__ : Number of students increased to: 1
+12/07/2022 11:36:19 AM : INFO : __main__ : rajeev_kumar@ineuron.com
+12/07/2022 11:36:19 AM : INFO : __main__ : rajeev kumar is also applicable for internship.
+12/07/2022 11:36:19 AM : INFO : __main__ : The student has opted for Data Analytics.
+12/07/2022 11:36:19 AM : INFO : __main__ : Number of students increased to: 2
+12/07/2022 11:36:29 AM : INFO : __main__ : The course attended by the student at the beginning is FSDS
+12/07/2022 11:36:29 AM : INFO : __main__ : The course attended by the student after change is FSDA
+12/07/2022 11:36:45 AM : INFO : __main__ : All the students of Ineuron belong to different courses.
+12/07/2022 11:36:45 AM : INFO : __main__ : Some belong to FSDS course and some to FSDA.
+12/07/2022 11:36:45 AM : INFO : __main__ : All the students of Ineuron belong to different courses.
+12/07/2022 11:36:45 AM : INFO : __main__ : These students belong to FSDS course and not FSDA.
+12/07/2022 11:36:45 AM : INFO : __main__ : All the students of Ineuron belong to different courses.
+12/07/2022 11:36:45 AM : INFO : __main__ : These students belong to FSDA course and not FSDS.
+12/07/2022 11:37:00 AM : INFO : __main__ : The first course is: Data Science
+12/07/2022 11:37:00 AM : ERROR : __main__ : 'Course2' object has no attribute 'course2'
+12/07/2022 11:37:00 AM : INFO : __main__ : The second course is: Web Development
+12/07/2022 11:37:00 AM : ERROR : __main__ : 'Course3' object has no attribute 'course3'
+12/07/2022 11:37:00 AM : INFO : __main__ : The third course is: Data Analytics
+12/07/2022 11:37:00 AM : INFO : __main__ : The blog is about Python
+12/07/2022 11:37:00 AM : INFO : __main__ : The blog is about Python
+12/07/2022 11:37:00 AM : INFO : __main__ : Now the blog is changed
+12/07/2022 11:37:00 AM : INFO : __main__ : The blog is about Java
+12/07/2022 11:37:16 AM : INFO : ineuron : The fullname of the student is: Arunava Biswas
+12/07/2022 11:37:16 AM : INFO : ineuron : The student belongs to FSDS-May batch
+12/07/2022 11:37:16 AM : INFO : ineuron : Number of students increased to: 1
+12/07/2022 11:37:16 AM : INFO : ineuron : The fullname of the student is: New User
+12/07/2022 11:37:16 AM : INFO : ineuron : The student belongs to FSDS-May batch
+12/07/2022 11:37:16 AM : INFO : ineuron : Number of students increased to: 2
+12/07/2022 11:37:16 AM : INFO : inheritance : arunava_biswas@ineuron.com
+12/07/2022 11:37:16 AM : INFO : inheritance : arunava biswas is also applicable for internship.
+12/07/2022 11:37:16 AM : INFO : inheritance : The student has opted for FSDS.
+12/07/2022 11:37:16 AM : INFO : inheritance : Number of students increased to: 1
+12/07/2022 11:37:16 AM : INFO : inheritance : rajeev_kumar@ineuron.com
+12/07/2022 11:37:16 AM : INFO : inheritance : rajeev kumar is also applicable for internship.
+12/07/2022 11:37:16 AM : INFO : inheritance : The student has opted for Data Analytics.
+12/07/2022 11:37:16 AM : INFO : inheritance : Number of students increased to: 2
+12/07/2022 11:37:16 AM : INFO : meth_ovrd : The course attended by the student at the beginning is FSDS
+12/07/2022 11:37:16 AM : INFO : meth_ovrd : The course attended by the student after change is FSDA
+12/07/2022 11:37:16 AM : INFO : polymorph : All the students of Ineuron belong to different courses.
+12/07/2022 11:37:16 AM : INFO : polymorph : Some belong to FSDS course and some to FSDA.
+12/07/2022 11:37:16 AM : INFO : polymorph : All the students of Ineuron belong to different courses.
+12/07/2022 11:37:16 AM : INFO : polymorph : These students belong to FSDS course and not FSDA.
+12/07/2022 11:37:16 AM : INFO : polymorph : All the students of Ineuron belong to different courses.
+12/07/2022 11:37:16 AM : INFO : polymorph : These students belong to FSDA course and not FSDS.
+12/07/2022 11:37:16 AM : INFO : abstract_encap : The first course is: Data Science
+12/07/2022 11:37:16 AM : ERROR : abstract_encap : 'Course2' object has no attribute 'course2'
+12/07/2022 11:37:16 AM : INFO : abstract_encap : The second course is: Web Development
+12/07/2022 11:37:16 AM : ERROR : abstract_encap : 'Course3' object has no attribute 'course3'
+12/07/2022 11:37:16 AM : INFO : abstract_encap : The third course is: Data Analytics
+12/07/2022 11:37:16 AM : INFO : abstract_encap : The blog is about Python
+12/07/2022 11:37:16 AM : INFO : abstract_encap : The blog is about Python
+12/07/2022 11:37:16 AM : INFO : abstract_encap : Now the blog is changed
+12/07/2022 11:37:16 AM : INFO : abstract_encap : The blog is about Java
