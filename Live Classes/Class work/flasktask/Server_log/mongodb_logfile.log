@@ -1,0 +1,14 @@
+20/08/2022 08:00:54 PM : INFO : mongodb_conn : Connection to mongodb is successful
+20/08/2022 08:00:54 PM : INFO : mongodb_conn : database and collection is created
+20/08/2022 08:01:19 PM : INFO : mongodb_conn : Connection to mongodb is successful
+20/08/2022 08:01:19 PM : INFO : mongodb_conn : database and collection is created
+20/08/2022 08:01:20 PM : INFO : mongodb_conn : Data inserted successfully.
+20/08/2022 08:01:27 PM : INFO : mongodb_conn : Connection to mongodb is successful
+20/08/2022 08:01:27 PM : INFO : mongodb_conn : database and collection is created
+20/08/2022 08:01:27 PM : INFO : mongodb_conn : Record fetched successfully
+20/08/2022 08:01:36 PM : INFO : mongodb_conn : Connection to mongodb is successful
+20/08/2022 08:01:36 PM : INFO : mongodb_conn : database and collection is created
+20/08/2022 08:01:36 PM : INFO : mongodb_conn : Data updated successfully.
+20/08/2022 08:01:44 PM : INFO : mongodb_conn : Connection to mongodb is successful
+20/08/2022 08:01:44 PM : INFO : mongodb_conn : database and collection is created
+20/08/2022 08:01:44 PM : INFO : mongodb_conn : Data deleted successfully.
